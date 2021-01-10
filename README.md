@@ -1,7 +1,7 @@
 # maglev-control
 
 <p align="center">
-  <img width="500" src="https://github.com/tensarflow/maglev-control/blob/main/maglev.png">
+  <img width="650" src="https://github.com/tensarflow/maglev-control/blob/main/maglev.png">
 </p>
 1. Load the .ino file on the NodeMCUv3 and run it. 
 2. Connect the PC to the WiFi Access Point "ESPsoftAP_01" of the NodeMCU with the password "pass-to-soft-AP".
