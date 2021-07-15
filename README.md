@@ -23,3 +23,9 @@ Setting new PID parameters through the interface is currently causing the a dela
 <p align="center">
   <img width="500" src="https://github.com/tensarflow/maglev-control/blob/main/maglev_electronics.png">
 </p>
+
+## Set Up Software
+
+
+## To Do:
+- Make instruction for software setup
